@@ -2,16 +2,20 @@
 
 Simple overview of use/purpose.
 
+## 🕹️ Technologies Used:
+
+-
+
 ## 🚧 Project Setup / Overview:
 
 ### ✅ Things to Cover:
 
-- Create Github repo
-- Initialize Next.js project
-- Install necessary dependencies
-- Git workflow / Conventional commits
-- Set u Chakra theme (global vars, design tokens, fonts)
-- Set up Storybook
+- [x] Create Github repo
+- [x] Initialize Next.js project
+- [x] Install necessary dependencies
+- [ ] Git workflow / Conventional commits
+- [ ] Set u Chakra theme (global vars, design tokens, fonts)
+- [ ] Set up Storybook
 
 ### 🎯 Aims:
 
