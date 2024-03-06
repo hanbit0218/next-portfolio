@@ -2,7 +2,7 @@
 
 Simple overview of use/purpose.
 
-## 🕹️ Technologies Used:
+## 🕹️ Technologies/Languages Used:
 
 - Figma
 - Next.js
