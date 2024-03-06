@@ -22,16 +22,16 @@ Simple overview of use/purpose.
 
 #### 📖 Things to learn:
 
-- Next.js and key features
-- Advanced React features (Error boundaries, Higher-order Components)
-- Testing
-- Measure and optimize performance (web vitals)
+- [x] Next.js and key features
+- [x] Advanced React features (Error boundaries, Higher-order Components)
+- [x] Testing
+- [x] Measure and optimize performance (web vitals)
 
 #### 📈 Things to improve:
 
-- Existing React knowledge
-- UI / UX design skills (design thinking, tooling, prototyping)
-- A11Y knowledge and solution (audit, testing, implementing)
+- [x] Existing React knowledge
+- [x] UI / UX design skills (design thinking, tooling, prototyping)
+- [x] A11Y knowledge and solution (audit, testing, implementing)
 
 ## ✍🏼 Authors
 
