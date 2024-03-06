@@ -36,7 +36,9 @@ Simple overview of use/purpose.
 ## ✍🏼 Authors
 
 David Song
-[@davidthesongg](https://www.instagram.com/davidthesongg/)
+
+- <img src="instagram.png" width="20" height="20"> [@davidthesongg](https://www.instagram.com/davidthesongg/)
+- <img src="linkedin.png" width="20" height="20"> [@davidthesong](https://www.linkedin.com/in/davidthesong/)
 
 ## 📜 Version History
 
