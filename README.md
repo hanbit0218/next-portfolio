@@ -13,9 +13,9 @@ Simple overview of use/purpose.
 - [x] Create Github repo
 - [x] Initialize Next.js project
 - [x] Install necessary dependencies
-- [ ] Git workflow / Conventional commits
-- [ ] Set u Chakra theme (global vars, design tokens, fonts)
-- [ ] Set up Storybook
+- [x] Git workflow / Conventional commits
+- [x] Set u Chakra theme (global vars, design tokens, fonts)
+- [x] Set up Storybook
 
 ### 🎯 Aims:
 
