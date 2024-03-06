@@ -4,8 +4,17 @@ Simple overview of use/purpose.
 
 ## 🕹️ Technologies/Languages Used:
 
-- <span style="color:red"><strong>Technologies / Frameworks:</strong></span> Figma, Next.js
-- <strong>Languages:</strong> JavaScript, HTML, CSS
+-<strong>Technologies / Frameworks:</strong> Figma, Next.js
+
+- Languages: JavaScript, HTML, CSS
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 ## 🚧 Project Setup / Overview:
 
