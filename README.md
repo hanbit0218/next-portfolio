@@ -4,8 +4,8 @@ Simple overview of use/purpose.
 
 ## 🕹️ Technologies/Languages Used:
 
-- Figma
-- Next.js
+- Technologies / Frameworks: Figma, Next.js
+- Languages: JavaScript, HTML, CSS
 
 ## 🚧 Project Setup / Overview:
 
