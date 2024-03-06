@@ -4,7 +4,8 @@ Simple overview of use/purpose.
 
 ## 🕹️ Technologies Used:
 
--
+- Figma
+- Next.js
 
 ## 🚧 Project Setup / Overview:
 
