@@ -47,7 +47,7 @@ David Song
 
 ## 🪪 License
 
-This project is licensed under the David SOng License
+This project is licensed under the David Song License
 
 ## 🏆 Acknowledgments
 
